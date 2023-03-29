@@ -3,17 +3,17 @@
 ### Download Docker Desktop
 https://www.docker.com/products/docker-desktop/
 
-### Download repository:
+### Download this repository and extract:
 https://github.com/mosqueiro/zcore-getkey/archive/refs/heads/main.zip
 
 ### Commands
-- Open ```genkey/pass.pwd``` with text editor and edit with your password
+- Open ```genkey/keystore/pass.pwd``` with text editor and edit with your password
 
-- Run ```docker-compose up``` in the folder where you downloaded the repository
+- Run ```docker-compose up``` command in the folder where you downloaded this repository
 
 - The JSON will be generated in the folder ```genkey/keystore```
 
 - Copy the the generated address:
 ![address](https://github.com/mosqueiro/zcore-getkey/raw/main/images/address.png)
 
-- Copy the folder ```genkey/keystore```
+- Copy the content folder ```genkey/keystore``` (2 files)
