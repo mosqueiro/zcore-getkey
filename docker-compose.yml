@@ -7,7 +7,7 @@ services:
     build:
       context: . 
     command:
-      --datadir=/root/.ethereum/ account new --password /root/.ethereum/pass.pwd
+      --datadir=/root/.ethereum/ account new --password /root/.ethereum/keystore/pass.pwd
     ports:
       - "8545:8545"
     volumes:

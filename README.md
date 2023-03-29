@@ -16,8 +16,4 @@ https://github.com/mosqueiro/zcore-getkey/archive/refs/heads/main.zip
 - Copy the the generated address:
 ![address](https://github.com/mosqueiro/zcore-getkey/raw/main/images/address.png)
 
-- Copy the contents of the folder ```genkey/keystore```:
-```
-- keystore (folder with your JSON)
-- pass.pwd (file)
-```
+- Copy the folder ```genkey/keystore```
