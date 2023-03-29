@@ -1,4 +1,4 @@
-# Generate JSON for ZCore Network (ZCN) validator
+# Generate JSON KEY for ZCore Network (ZCN) validator
 
 ### Download Docker Desktop
 https://www.docker.com/products/docker-desktop/
